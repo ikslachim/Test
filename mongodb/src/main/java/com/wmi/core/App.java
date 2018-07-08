@@ -9,6 +9,12 @@ import com.mongodb.DBCursor;
 import com.mongodb.MongoClient;
 import com.mongodb.MongoException;
 
+
+
+/** 
+ * 
+ * Dodany komentarz przez WMI
+ */
 /**
  * Java + MongoDB Hello world Example
  * 
